@@ -1,0 +1,15 @@
+/*CSS DO HEADER*/
+
+header {
+    height: 52px;
+    width: 100%;
+    background-color: #2d333b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #fff;
+}

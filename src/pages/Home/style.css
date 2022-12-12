@@ -1,0 +1,76 @@
+/*STYLE DA HOME */
+
+.conteudo {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.info {
+    width: 60%;
+    margin-top: 40px;
+    color: #fff;
+}
+
+input {
+    border-radius: 22px;
+    border: 1px solid #999999;
+    background-color: transparent;
+    font-size: 18px;
+    padding: 10px;
+    min-width: 250px;
+    width: 80%;
+    color: #fff;
+}
+
+button {
+    border-radius: 22px;
+    border: 1px solid #999999;
+    background-color: #2d333b;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 12px;
+}
+
+.perfil {
+    display:flex;
+    margin: 40px 0;
+}
+
+.profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 2px solid #fff;
+    margin-right: 32px;
+}
+
+.perfil h3 {
+    color: #999999;
+    font-size: 24px;
+    margin: 0 0 3px 0;
+}
+
+.perfil p {
+    color: #999999;
+    font-size: 12px;
+    margin: 20px 0 0 0;
+}
+
+.perfil span {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.repositorio {
+    font-size: 32px;
+    color: white;
+    margin: 12px 0;
+    text-align: center;
+}

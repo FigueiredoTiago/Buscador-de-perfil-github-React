@@ -1,0 +1,16 @@
+/* Estilo DO Lista de repositorio*/
+.item-list {
+    margin: 20px 0;
+}
+
+.item-list strong {
+    color: #539bf5;
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.item-list p {
+    color: #999999;
+    font-size: 12px;
+    margin: 24px 0;
+}
